@@ -188,4 +188,25 @@ export default {
     'fr':'Cu',
     'sa':'Cts'
   },
+  'nl' : { // Dutch
+    'january':'januari',
+    'february':'februari',
+    'march':'maart',
+    'april':'april',
+    'may':'mei',
+    'june':'juni',
+    'july':'juli',
+    'august':'augustus',
+    'september':'september',
+    'october':'oktober',
+    'november':'november',
+    'december':'december',
+    'su':'zondag',
+    'mo':'maandag',
+    'tu':'dinsdag',
+    'we':'woensdag',
+    'th':'donderdag',
+    'fr':'vrijdag',
+    'sa':'zaterdag'
+  },
 }
