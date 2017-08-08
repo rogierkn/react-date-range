@@ -201,12 +201,12 @@ export default {
     'october':'oktober',
     'november':'november',
     'december':'december',
-    'su':'zondag',
-    'mo':'maandag',
-    'tu':'dinsdag',
-    'we':'woensdag',
-    'th':'donderdag',
-    'fr':'vrijdag',
-    'sa':'zaterdag'
+    'su':'zo',
+    'mo':'ma',
+    'tu':'di',
+    'we':'wo',
+    'th':'do',
+    'fr':'vr',
+    'sa':'za'
   },
 }
